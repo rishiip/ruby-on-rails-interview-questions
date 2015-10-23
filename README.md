@@ -3,6 +3,7 @@
 ##### What are the advantages of using Ruby on Rails in Web Development?
 ##### What are the disadvantages of using Ruby on Rails in Web Development?
 ##### What do you mean by `Agile Development`?
+##### Explain MVC in terms of Rails.
 ##### What are different components of Ruby on Rails?
 ##### Give list of frameworks which is similar to Rails.
 ##### What makes Ruby different from other programming languages?
@@ -20,6 +21,7 @@
 ##### List down servers supported by Rails.
 ##### What things we can define within `Model`?
 ##### What is Asset Pipeline?
+##### How parsing has been done from ERB file to HTML?
 ##### What is difference between `Render` and `Redirect`?
 ##### What is difference between `Gems` and `Plugins`?
 ##### What is difference between `Gemfile` and `Gemfile.lock`?
@@ -27,6 +29,8 @@
 ##### What is difference between `find` and `find_by_xxx` method?
 ##### What is difference between `includes` and `extends`?
 ##### What is difference between `form_for` and `form_tag`?
+##### What is difference between `TDD` and  `BDD`?
+##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
 
 ------------
