@@ -32,6 +32,12 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
+------------
+## Contribution Guidelines
+
+* The question must be unique
+* Question must be related with Ruby/Rails
+* A pull request must contain only single question
 
 ------------
 
