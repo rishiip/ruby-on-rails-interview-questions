@@ -10,6 +10,7 @@
 ##### Explain how everything is an object in Ruby.
 ##### Give difference between last 3 versions of Rails.
 ##### What's the major improvements in Rails 5.0?
+You can find them [here](http://www.sitepoint.com/whats-new-rails-5/). 
 ##### What do you mean by ORM?
 ##### What is difference between String and Symbol?
 ##### List down types of associations in Rails.
