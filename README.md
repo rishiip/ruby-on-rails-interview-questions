@@ -1,4 +1,4 @@
-# Ruby on Rails Interview Questions
+#<img src="img/logo.png"> Ruby on Rails Interview Questions
 
 ##### What are the advantages of using Ruby on Rails in Web Development?
 ##### What are the disadvantages of using Ruby on Rails in Web Development?
