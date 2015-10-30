@@ -32,6 +32,8 @@
 ##### List down servers supported by Rails.
 ##### What things we can define within `Model`?
 ##### What is Asset Pipeline?
+* [Official documentation](http://guides.rubyonrails.org/asset_pipeline.html)
+
 ##### How parsing has been done from ERB file to HTML?
 ##### What is difference between `String` and `Symbol`?
 * Necessary information about Strings and Symbols could be found [there](http://www.reactive.io/tips/2009/01/11/the-difference-between-ruby-symbols-and-strings/)
