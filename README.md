@@ -17,6 +17,7 @@
 ##### What do you mean by ORM?
 ##### What is Self-Referential Association aka Self Join?
 * A good explanation from [Rails Casts] (http://railscasts.com/episodes/163-self-referential-association)
+
 ##### List down types of associations in Rails.
 ##### What is functionality of `Helpers`?
 ##### Explain eagerloading.
@@ -25,6 +26,7 @@
 ##### What is ActiveRecord?
 ##### Explain Active Record Callbacks.
 * A good explanation from [Ruby on Rails Guides] (http://guides.rubyonrails.org/active_record_callbacks.html)
+
 ##### Explain Filters.
 ##### Define resource, resources, collection and namespace in terms of routes.
 ##### List down servers supported by Rails.
