@@ -7,6 +7,7 @@
 ##### What are different components of Ruby on Rails?
 ##### Give list of frameworks which is similar to Rails.
 ##### What makes Ruby different from other programming languages?
+##### What do you mean by Meta Programming?
 ##### Explain how everything is an object in Ruby.
 ##### Give difference between last 3 versions of Rails.
 ##### What's the major improvements in Rails 5.0?
@@ -14,17 +15,23 @@
 * Another good blog post from [Michelada] (http://blog.michelada.io/whats-new-in-rails-5)
 
 ##### What do you mean by ORM?
-##### What is difference between String and Symbol?
+##### What is Self-Referential Association aka Self Join?
+* A good explanation from [Rails Casts] (http://railscasts.com/episodes/163-self-referential-association)
 ##### List down types of associations in Rails.
 ##### What is functionality of `Helpers`?
 ##### Explain eagerloading.
 ##### What are your favourite Gems?
-##### What is difference between block, proc and lambda?
+##### Define block, proc and lambda and give difference between them.
 ##### What is ActiveRecord?
+##### Explain Active Record Callbacks.
+* A good explanation from [Ruby on Rails Guides] (http://guides.rubyonrails.org/active_record_callbacks.html)
+##### Explain Filters.
+##### Define resource, resources, collection and namespace in terms of routes.
 ##### List down servers supported by Rails.
 ##### What things we can define within `Model`?
 ##### What is Asset Pipeline?
 ##### How parsing has been done from ERB file to HTML?
+##### What is difference between `String` and `Symbol`?
 ##### What is difference between `Render` and `Redirect`?
 ##### What is difference between `Gems` and `Plugins`?
 ##### What is difference between `Gemfile` and `Gemfile.lock`?
