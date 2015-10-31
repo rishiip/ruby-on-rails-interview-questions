@@ -38,6 +38,7 @@
 ##### What is difference between `String` and `Symbol`?
 * Necessary information about Strings and Symbols could be found [there](http://www.reactive.io/tips/2009/01/11/the-difference-between-ruby-symbols-and-strings/)
 
+##### How could you explain the Ruby OOP model?
 ##### What is difference between `Render` and `Redirect`?
 ##### What is difference between `Gems` and `Plugins`?
 ##### What is difference between `Gemfile` and `Gemfile.lock`?
@@ -48,6 +49,7 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
+
 ------------
 ## Contribution Guidelines
 
