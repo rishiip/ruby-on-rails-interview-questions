@@ -9,6 +9,7 @@
 ##### What makes Ruby different from other programming languages?
 ##### What do you mean by Meta Programming?
 ##### Explain how everything is an object in Ruby.
+##### How could you explain the Ruby OOP model?
 ##### Give difference between last 3 versions of Rails.
 ##### What's the major improvements in Rails 5.0?
 * A good article from [Site Point](http://www.sitepoint.com/whats-new-rails-5/)
@@ -48,6 +49,7 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
+
 ------------
 ## Contribution Guidelines
 
