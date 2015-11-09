@@ -6,6 +6,7 @@
 ##### Explain MVC in terms of Rails.
 ##### What are different components of Ruby on Rails?
 * [Slidershare] (http://www.slideshare.net/ifuturz/get-aware-of-ruby-on-rails-components)
+
 ##### Give list of frameworks which is similar to Rails.
 ##### What makes Ruby different from other programming languages?
 ##### What do you mean by Meta Programming?
@@ -24,6 +25,7 @@
 ##### What is functionality of `Helpers`?
 ##### Explain eagerloading.
 * A good article with types of preloading [eagerloading] (http://blog.arkency.com/2013/12/rails4-preloading)
+
 ##### What are your favourite Gems?
 ##### Define block, proc and lambda and give difference between them.
 ##### What is ActiveRecord?
