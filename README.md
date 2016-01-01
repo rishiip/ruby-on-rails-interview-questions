@@ -1,9 +1,19 @@
 #<img src="img/logo.png"> Ruby on Rails Interview Questions
 
 ##### What are the advantages of using Ruby on Rails in Web Development?
+* A good article from [Sentia](http://www.sentia.com.au/blog/8-benefits-of-using-ruby-on-rails-for-web-development)
+* A good article from [Toptal](http://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
+
 ##### What are the disadvantages of using Ruby on Rails in Web Development?
+* A nice answer from [StackExchange](http://programmers.stackexchange.com/a/85576/142368)
+
 ##### What do you mean by `Agile Development`?
+* A good page on [WikiPedia](https://en.wikipedia.org/wiki/Agile_software_development)
+* A good explaination on [TutotialsPoint](http://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
+
 ##### Explain MVC in terms of Rails.
+* A good explaination on [TutotialsPoint](http://www.tutorialspoint.com/ruby-on-rails/rails-framework.htm)
+
 ##### What are different components of Ruby on Rails?
 * [Slidershare] (http://www.slideshare.net/ifuturz/get-aware-of-ruby-on-rails-components)
 
