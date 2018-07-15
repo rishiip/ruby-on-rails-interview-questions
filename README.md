@@ -1,4 +1,4 @@
-#<img src="img/logo.png"> Ruby on Rails Interview Questions
+# <img src="img/logo.png"> Ruby on Rails Interview Questions
 
 ##### What are the advantages of using Ruby on Rails in Web Development?
 * A good article from [Sentia](http://www.sentia.com.au/blog/8-benefits-of-using-ruby-on-rails-for-web-development)
