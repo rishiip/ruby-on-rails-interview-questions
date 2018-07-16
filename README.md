@@ -28,6 +28,10 @@
 * Another good blog post from [Michelada] (http://blog.michelada.io/whats-new-in-rails-5)
 
 ##### What do you mean by ORM?
+
+##### What is the difference between eager and lazy loading in rails? 
+* A good explanation can be found from [spritle.com] (https://www.spritle.com/blogs/2011/03/17/eager-loading-and-lazy-loading-in-rails-activerecord/
+
 ##### What is Self-Referential Association aka Self Join?
 * A good explanation from [Rails Casts] (http://railscasts.com/episodes/163-self-referential-association)
 
