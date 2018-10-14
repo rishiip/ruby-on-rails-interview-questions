@@ -1,8 +1,15 @@
-![License|MIT](https://img.shields.io/badge/License-MIT-green.svg)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/rishiip)
+<h3 align="center">Ruby on Rails Interview Questions! :tada:</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+      <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+  </a>
+  <a href="https://saythanks.io/to/rishiip">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+</p>
 
-# Ruby on Rails Interview Questions! :tada:
+------------
 
 ##### What are the advantages of using Ruby on Rails in Web Development?
 * A good article from [Sentia](http://www.sentia.com.au/blog/8-benefits-of-using-ruby-on-rails-for-web-development)
