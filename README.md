@@ -1,4 +1,7 @@
-# <img src="img/logo.png"> Ruby on Rails Interview Questions
+![License|MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+# Ruby on Rails Interview Questions! :tada:
 
 ##### What are the advantages of using Ruby on Rails in Web Development?
 * A good article from [Sentia](http://www.sentia.com.au/blog/8-benefits-of-using-ruby-on-rails-for-web-development)
