@@ -4,7 +4,7 @@
   <a href="https://github.com/ellerbrock/open-source-badges/">
       <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
   </a>
-  <a href="https://saythanks.io/to/rishiip">
+  <a href="https://saythanks.io/to/rishiip" target="_blank">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
 </p>
