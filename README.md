@@ -1,5 +1,6 @@
-![License|MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![License|MIT](https://img.shields.io/badge/License-MIT-green.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/rishiip)
 
 # Ruby on Rails Interview Questions! :tada:
 
@@ -32,7 +33,7 @@
 
 ##### What do you mean by ORM?
 
-##### What is the difference between eager and lazy loading in rails? 
+##### What is the difference between eager and lazy loading in rails?
 * A good explanation can be found from [spritle.com] (https://www.spritle.com/blogs/2011/03/17/eager-loading-and-lazy-loading-in-rails-activerecord/
 
 ##### What is Self-Referential Association aka Self Join?
