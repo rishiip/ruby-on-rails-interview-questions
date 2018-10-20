@@ -78,6 +78,7 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
+##### What is single table inheritance(STI) in Rails ?
 
 ------------
 ## Contribution Guidelines
