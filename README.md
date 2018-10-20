@@ -78,7 +78,8 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
-##### What is single table inheritance(STI) in Rails ?
+##### What is single table inheritance(STI) in Rails?
+* Necessary information could be found [here](https://api.rubyonrails.org/classes/ActiveRecord/Inheritance.html)
 
 ------------
 ## Contribution Guidelines
