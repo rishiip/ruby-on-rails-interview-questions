@@ -78,6 +78,10 @@
 ##### What is difference between `TDD` and  `BDD`?
 ##### What is difference between `Application Server` and `Web Server`?
 ##### What is difference between `==`, `===`, `eql?` and `equal?`?
+##### What is single table inheritance(STI) in Rails?
+* Necessary information could be found [here](https://api.rubyonrails.org/classes/ActiveRecord/Inheritance.html)
+##### What is polymorphic associations in Rails? How it is differ from single table inheritance?
+* Necessary information could be found [here](https://medium.freecodecamp.org/single-table-inheritance-vs-polymorphic-associations-in-rails-af3a07a204f2)
 
 ------------
 ## Contribution Guidelines
