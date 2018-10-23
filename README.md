@@ -82,40 +82,8 @@
 * Necessary information could be found [here](https://api.rubyonrails.org/classes/ActiveRecord/Inheritance.html)
 ##### What is polymorphic associations in Rails? How it is differ from single table inheritance?
 * Necessary information could be found [here](https://medium.freecodecamp.org/single-table-inheritance-vs-polymorphic-associations-in-rails-af3a07a204f2)
-##### What will be printed after running the following code?
-```ruby
-# rails model
-class User < ApplicationRecord
-  # callbacks
-  after_create :a_create
-  after_update :a_update
-  after_save :a_save
+##### What will be printed after running the code [here](https://gist.github.com/engr-hasanuzzaman/9556121c9fd954eb077ac39ed19fe8d1)?
 
-  # validations
-  validates :name, presence: true
- 
-  private
-
-  def a_save
-    Rails.logger.info 's'
-  end
-
-  def a_create
-    Rails.logger.info 'f'
-  end
-
-  def a_update
-    Rails.logger.info 'g'
-  end
-end
-
-user = User.new
-user.save
-Rails.logger.info 'o'
-user.name = 'foo'
-user.save
-user.update_attributes(name: 'bar')
-```
 ------------
 ## Contribution Guidelines
 
