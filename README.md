@@ -84,6 +84,7 @@
 * Necessary information could be found [here](https://medium.freecodecamp.org/single-table-inheritance-vs-polymorphic-associations-in-rails-af3a07a204f2)
 ##### What will be printed after running the code [here](https://gist.github.com/engr-hasanuzzaman/9556121c9fd954eb077ac39ed19fe8d1)?
 * Awswer of the above question is [here](https://gist.github.com/engr-hasanuzzaman/8080ceb3394e83de6412f44710149387)
+##### Lets say you have a controller method that you want to access from view. How will you do that?
 
 ------------
 ## Contribution Guidelines
