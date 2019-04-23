@@ -4,10 +4,13 @@ requestInfoReplyComment: >
 requestInfoLabelToAdd: request-more-info
 
 newPRWelcomeComment: >
-  Thanks so much for opening your first PR here! A maintainer will get back to you shortly!
+  Thanks so much for opening your first PR here! A maintainer will get back to you shortly! </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Ruby on Rails Interview Questions](https://github.com/rishiip/ruby-on-rails-interview-questions) :blush:
 
 firstPRMergeComment: >
-  Congrats on merging your first pull request here! :tada: How awesome!
+  Congrats on merging your first pull request here! :tada: How awesome! </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Ruby on Rails Interview Questions](https://github.com/rishiip/ruby-on-rails-interview-questions) :blush:
 
 newIssueWelcomeComment: >
-  Thanks for opening this issue, a maintainer will get back to you shortly!
+  Thanks for opening this issue, a maintainer will get back to you shortly! </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Ruby on Rails Interview Questions](https://github.com/rishiip/ruby-on-rails-interview-questions) :blush:
